@@ -17,18 +17,11 @@
 
 ## Certifications:
 
-<link rel="stylesheet" href="Style.css">
+## Certifications:
+<img src="/Images/AzureFundamentals.png" width="70" height="70">
+<img src="/Images/AzureDataFundamentals.png" width="70" height="70">
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none;">
-      <img src="/Images/AzureFundamentals.png" width="70" height="70">
-    </td>
-    <td style="border: none;">
-      <img src="/Images/AzureDataFundamentals.png" width="70" height="70">
-    </td>
-  </tr>
-</table>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
