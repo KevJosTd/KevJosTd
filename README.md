@@ -17,6 +17,8 @@
 
 ## Certifications:
 
+<link rel="stylesheet" href="Style.css">
+
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
@@ -27,11 +29,6 @@
     </td>
   </tr>
 </table>
-
-| Imagen 1                                          | Imagen 2                                           |
-|---------------------------------------------------|----------------------------------------------------|
-| ![Azure Fundamentals](./Images/AzureFundamentals.png) | ![Azure Data Fundamentals](./Images/AzureDataFundamentals.png) |
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
