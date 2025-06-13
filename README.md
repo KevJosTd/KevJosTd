@@ -15,9 +15,5 @@
 ## 💻 Languages and Tools:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
-## 🏅 Certifications:
-
-<img src = "/Images/AzureFundamentals.png" width = "70" height = "70" alt = "Azure Fundamentals"/>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
