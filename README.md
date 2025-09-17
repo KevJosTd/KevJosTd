@@ -1,6 +1,6 @@
 # Hi there, I'm Kevin! 👋​
 
-🔭 I'm currently working on Databricks.<br>🌱 I'm currently learning Spark and Cloud Data Engineering.<br>🥅 2025 Goals: Get the AWS Data Engineer certification.<br>⚡ Fun fact: I was going to become a professional soccer player until I injured my knee 😆​ / I love playing soccer. ⚽​
+🔭 I'm currently working on Databricks.<br>🌱 I'm currently learning Spark and Cloud Data Engineering.<br>🥅 2025 Goals: Get the Databricks Associate Data Engineer certification.<br>⚡ Fun fact: I was going to become a professional soccer player until I injured my knee 😆​ / I love playing soccer. ⚽​
 
 
 ## 🌐 Connect with me:
@@ -23,6 +23,7 @@
   <img src="/Images/AzureDataFundamentals.png" width="70" height="70">
   <img src="/Images/AWSCloudPractitioner.png" width="70" height="70">
   <img src="/Images/DatabricksFundamentals.png" width="70" height="70">
+  <img src="/Images/DatabricksAIGenerativeFundamentals.png" width="70" height="70">
 </div>
 
 
