@@ -25,6 +25,7 @@
   <img src="/Images/DatabricksFundamentals.png" width="70" height="70">
   <img src="/Images/DatabricksDataGovernanceFundamentals.png" width="70" height="70">
   <img src="/Images/DatabricksAIGenerativeFundamentals.png" width="70" height="70">
+  <img src="/Images/DatabricksDataEngineerAssociate.png" width="70" height="70">
 </div>
 
 
